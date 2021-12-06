@@ -13,7 +13,6 @@
 .react,
 .redux {
     display: none;
-    font-size: 30px;
 }
 
 .animation {
@@ -22,8 +21,8 @@
 }
 
 @keyframes marquee {
-    from {transform: translateX(-30%); }
-    to {transform: translateX(30%); }
+    from {transform: translateX(-15%); }
+    to {transform: translateX(15%); }
   }
 
   .erez_avatar {
